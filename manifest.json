@@ -4,16 +4,15 @@
     "version": "1.0",
     "action": {
         "default_popup": "popup/popup.html",
-        "default_icon": "img/logo.png"
+        "default_icon": "img/logo128.png"
     },
-    "description": "Auto connect as a guest to ASK4 wi-fi networks. Provides a button to the signup page and automaticcaly complete and validate the form.",
+    "description": "Auto connect as a guest to ASK4 Wi-Fi networks. Provides a button to the signup page and auto complete and validate the form.",
     "icons": {
         "16": "img/logo16.png",
         "32": "img/logo32.png",
         "48": "img/logo48.png",
         "128": "img/logo128.png"
     },
-    "default_locale": "en",
     "content_scripts": [
         {
             "matches": [
