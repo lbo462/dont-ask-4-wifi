@@ -1,0 +1,12 @@
+body {
+    background-color: #D51061;
+}
+
+.connect-button {
+    background-color: #D51061;
+    color: #fff;
+    border-radius: 6px;
+    border-color: #fff;
+    border-width: 1px;
+    padding: 10px;
+}
