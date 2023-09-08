@@ -16,4 +16,4 @@ A background script (`autofill.js`) is now loaded on this page to auto-fill the 
 
 The form is filled with random strings.
 
-PS: Even if the button wasn't clicked, the form will auto-fill and auto-validate
+PS: Even if the button wasn't clicked, the form will auto-fill and auto-validate.
